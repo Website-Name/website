@@ -1,0 +1,30 @@
+body
+{
+    padding-top: 5px;
+    font-family: "Times New Roman", Times, serif;
+
+    margin:auto ;
+
+}
+
+
+.me
+{
+    font-size: 100;
+    text-align: center;
+    margin-bottom: -5px;
+}
+
+.guy
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+.made
+{
+    margin-top: 19%;
+    text-align: left;
+    font-size: 12px;
+}
+
